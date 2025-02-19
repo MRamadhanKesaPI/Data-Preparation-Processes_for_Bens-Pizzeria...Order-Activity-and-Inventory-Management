@@ -1,4 +1,4 @@
-# Data Preparation Process for Ben's Pizzeria: Order Activity and Inventory Management
+# Data Preparation Processes for Ben's Pizzeria: Order Activity and Inventory Management
 
 The data preparation process ensures raw data is clean, consistent, and ready for analysis. It involves importing the data, fixing errors, and organizing it into a usable structure. This step is crucial for accurate and reliable results.
 
