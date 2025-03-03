@@ -711,3 +711,7 @@ ORDER BY
 	sub2.ing_name
 ;
 ```
+These queries will produce the final datasets that will be imported into Power BI to uncover insights.
+
+| [⏪ DAX on Power BI](https://mramadhankesapi.github.io/DAX-Processes_for_Bens-Pizzeria...Sales-and-Inventory-Analytics/) | [Ben's Pizzeria: Sales & Inventory Analytics ⏩](https://mramadhankesapi.github.io/Bens-Pizzeria...Sales-and-Inventory-Analytics/) |
+|----------------------------------|---------------|
