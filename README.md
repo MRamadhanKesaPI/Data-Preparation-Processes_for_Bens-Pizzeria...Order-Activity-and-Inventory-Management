@@ -716,10 +716,10 @@ These queries will produce the final datasets that will be imported into Power B
 <table style="width:100%; border-collapse: collapse; text-align: center;">
   <tr>
     <td style="width:50%; padding:10px; text-align: left;">
-      ⬅️ <a href="https://mramadhankesapi.github.io/DAX-Processes_for_Bens-Pizzeria...Sales-and-Inventory-Analytics/" style="text-decoration: none; font-weight: bold; color: #007bff;">DAX on Power BI</a>
+      ⏪ <a href="https://mramadhankesapi.github.io/DAX-Processes_for_Bens-Pizzeria...Sales-and-Inventory-Analytics/" style="text-decoration: none; font-weight: bold; color: #007bff;">DAX on Power BI</a>
     </td>
     <td style="width:50%; padding:10px; text-align: right;">
-      <a href="https://mramadhankesapi.github.io/Bens-Pizzeria...Sales-and-Inventory-Analytics/" style="text-decoration: none; font-weight: bold; color: #007bff;">📊 Ben's Pizzeria: Sales & Inventory Analytics</a> ➡️
+      <a href="https://mramadhankesapi.github.io/Bens-Pizzeria...Sales-and-Inventory-Analytics/" style="text-decoration: none; font-weight: bold; color: #007bff;">📊 Ben's Pizzeria: Sales & Inventory Analytics</a> ⏩
     </td>
   </tr>
 </table>
